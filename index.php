@@ -1,1 +1,3 @@
-buatin halaman index
+<html>
+
+</html>
