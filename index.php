@@ -1,6 +1,8 @@
 <php?
   <html>
-    <body>
+    <head>
+	</head>
+	<body>
     
     </body>
   </html>
