@@ -7,6 +7,5 @@
         $ss=new mysqli("localhost","root","","db_hemat");
         return $ss->query($q);
         $ss->close();
-    }
-	
+    }	
 ?>
