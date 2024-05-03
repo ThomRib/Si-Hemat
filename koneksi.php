@@ -8,6 +8,7 @@
         return $ss->query($q);
         $ss->close();
     }
+
     // input
     // update
 ?>
