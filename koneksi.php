@@ -9,6 +9,14 @@
         $ss->close();
     }
 
-    // input
-    // update
+	// fungsi crud
+
+	// fungsi diskon
+
+    // fungsi tambah
+
+    // fungsi kurang
+
+    // fungsi select
+
 ?>
