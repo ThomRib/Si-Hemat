@@ -1,10 +1,10 @@
-<php?
-  <html>
-    <head>
-	</head>
-	
-	<body>
-		<h1></h1>
-    </body>
-  </html>
+<?php
+  include 'koneksi.php';
+  // body
+  // nav
+
+
+  <h1>
+    index
+  </h1>
 ?>
