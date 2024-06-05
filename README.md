@@ -3,4 +3,4 @@ Terlahir sebagai orang yang biasa saja tentu membuat saya berpikir berulangkali 
 
 # Use Case
 bentuk sistem si hemat
-![use case](<img height="170" align="left" src="https://github.com/ThomRib/Si-Hemat/assets/74390441/739b5207-94b8-4282-8052-c1375c165578"/>)
+![use case](https://github.com/ThomRib/Si-Hemat/assets/74390441/739b5207-94b8-4282-8052-c1375c165578)
