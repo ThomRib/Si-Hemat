@@ -1,6 +1,5 @@
 # background
-Terlahir sebagai orang yang biasa saja tentu membuat saya berpikir berulangkali dalam mengeluarkan uang, ceroboh sedikit saja bisa menjadi malapetaka untuk saya sendiri dampaknya bukan main. Yang sangat jelas akan terasa, pastinya saya tidak akan bisa memenuhi kebutuhan sehari-hari saya terutama makanan. Dari pengalaman ini membuat saya berpikir bahwa penting untuk membuat sistem pengelola keuangan pribadi, supaya segala kegiatan transaksi keuangan bisa terpantau dan memudahkan saya dalam melakukan audit keuangan pribadi secara berkala.
+Being born as an ordinary person certainly made me think repeatedly about spending money, the slightest carelessness could be disastrous for me and the impact would be extraordinary. What will be very clear is that I will not be able to meet my daily needs, especially food. This experience made me think that it is important to create a personal financial management system so that all financial transaction activities can be monitored and make it easier for me to carry out regular personal financial audits.
 
-# Use Case
-bentuk sistem si hemat
+# Design Use Case
 ![use case](https://github.com/ThomRib/Si-Hemat/assets/74390441/739b5207-94b8-4282-8052-c1375c165578)
