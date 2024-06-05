@@ -1,6 +1,5 @@
 # background
-masalah keuangan merupakan suatu yang tidak bisa dianggap sepele
-
+Terlahir sebagai orang yang biasa saja tentu membuat saya berpikir berulangkali dalam mengeluarkan uang, ceroboh sedikit saja bisa menjadi malapetaka untuk saya sendiri dampaknya bukan main. Yang sangat jelas akan terasa, pastinya saya tidak akan bisa memenuhi kebutuhan sehari-hari saya terutama makanan. Dari pengalaman ini membuat saya berpikir bahwa penting untuk membuat sistem pengelola keuangan pribadi, supaya segala kegiatan transaksi keuangan bisa terpantau dan memudahkan saya dalam melakukan audit keuangan pribadi secara berkala.
 
 # Use Case
 bentuk sistem si hemat
