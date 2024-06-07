@@ -9,3 +9,4 @@ $ pip3 install
 ![use case](https://github.com/ThomRib/Si-Hemat/assets/74390441/7a6b03ee-7d50-443d-a160-2fbc50496fe2)
 
 # Sequence Kelola pemasukan
+![Sequence Kelola Pemasukan](https://github.com/ThomRib/Si-Hemat/assets/74390441/e8c63299-dfaf-4b36-8431-a020aec3439d)
