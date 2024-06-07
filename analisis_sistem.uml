@@ -845,7 +845,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="7ErYR6NqyUe9fsHUx4+LdQAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">1 : mengklik tombol kelola pemasukan()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">1 : Mengklik tombol kelola pemasukan()</XPD:ATTR>
 <XPD:REF name="Model">0N85jVj2X02bq4aV0dkWaAAA</XPD:REF>
 <XPD:REF name="HostEdge">87A0laNnhkyB5mjzmDdoWgAA</XPD:REF>
 </XPD:OBJ>
@@ -881,7 +881,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="JqbMBn7jPU62SWP04MhCEAAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">2 : menampilkan halaman kelola pemasukan()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">2 : Menampilkan halaman kelola pemasukan()</XPD:ATTR>
 <XPD:REF name="Model">7xMJo7oehUKsd5uCq0udAQAA</XPD:REF>
 <XPD:REF name="HostEdge">0JT7tC+UykqA7kRguyATUQAA</XPD:REF>
 </XPD:OBJ>
@@ -917,7 +917,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="0AlMKPwHXEyOeRYPT8VTKAAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">3 : mengklik tombol tambah()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">3 : Mengklik tombol tambah()</XPD:ATTR>
 <XPD:REF name="Model">5c/mXZoa6kCJwRvWFesUugAA</XPD:REF>
 <XPD:REF name="HostEdge">yzKzQvqALUKcSN/kJi/YVAAA</XPD:REF>
 </XPD:OBJ>
@@ -953,7 +953,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="msYyK5dne0m87pTeE5duFAAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">4 : menampilkan halaman tambah()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">4 : Menampilkan halaman tambah()</XPD:ATTR>
 <XPD:REF name="Model">O1HvPyCSmU6S91YrHyNP3AAA</XPD:REF>
 <XPD:REF name="HostEdge">tvl13ccjXk6md3DKZvvEKgAA</XPD:REF>
 </XPD:OBJ>
@@ -989,7 +989,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="PEzO+3jv9EOD3q2HnIC6ygAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">5 : input data pemasukan()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">5 : Input data pemasukan()</XPD:ATTR>
 <XPD:REF name="Model">3EtdFwaFkEaRJnTGWAyDMAAA</XPD:REF>
 <XPD:REF name="HostEdge">kGw20OmFdk2lHzRoMGknBwAA</XPD:REF>
 </XPD:OBJ>
@@ -1025,7 +1025,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="gnb76Hy6MEyJbcwBPe0LxwAA">
 <XPD:ATTR name="Alpha" type="real">1,5707953267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">53</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">6 : validasi input()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">6 : Validasi input()</XPD:ATTR>
 <XPD:REF name="Model">pZqLjR11skKQDES7s3cuFAAA</XPD:REF>
 <XPD:REF name="HostEdge">dwOVhVnSPU+N212SVTMgpwAA</XPD:REF>
 </XPD:OBJ>
@@ -1097,7 +1097,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="ryZDPf7o6UaX4GKBXV2Z0QAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">8 : menerima data</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">8 : Menerima data</XPD:ATTR>
 <XPD:REF name="Model">06IWlre0X02PkbiEpk6ExgAA</XPD:REF>
 <XPD:REF name="HostEdge">eTw9ii3vrUWPqpyxw9CuQgAA</XPD:REF>
 </XPD:OBJ>
@@ -1127,7 +1127,7 @@
 </XPD:OBJ>
 <XPD:ATTR name="#ParticipatingStimuli" type="integer">8</XPD:ATTR>
 <XPD:OBJ name="ParticipatingStimuli[0]" type="UMLStimulus" guid="0N85jVj2X02bq4aV0dkWaAAA">
-<XPD:ATTR name="Name" type="string">mengklik tombol kelola pemasukan</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Mengklik tombol kelola pemasukan</XPD:ATTR>
 <XPD:REF name="Sender">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:REF name="Receiver">q5BxHADdMUegygGE/85/awAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="Gh87PFtBc0StI1nX1dErggAA">
@@ -1141,7 +1141,7 @@
 <XPD:REF name="Views[3]">EvvSHkQp0kinzVRn4THe1gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[1]" type="UMLStimulus" guid="7xMJo7oehUKsd5uCq0udAQAA">
-<XPD:ATTR name="Name" type="string">menampilkan halaman kelola pemasukan</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Menampilkan halaman kelola pemasukan</XPD:ATTR>
 <XPD:REF name="Sender">q5BxHADdMUegygGE/85/awAA</XPD:REF>
 <XPD:REF name="Receiver">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="U/KRenH3SkGY859n4sOJNwAA">
@@ -1155,7 +1155,7 @@
 <XPD:REF name="Views[3]">kt11GugIAUSYVJ4lZQE/LQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[2]" type="UMLStimulus" guid="5c/mXZoa6kCJwRvWFesUugAA">
-<XPD:ATTR name="Name" type="string">mengklik tombol tambah</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Mengklik tombol tambah</XPD:ATTR>
 <XPD:REF name="Sender">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:REF name="Receiver">yDO5uKjF1ECIwjLbax7/owAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="Z060mJklt0awnydq1RcrUwAA">
@@ -1169,7 +1169,7 @@
 <XPD:REF name="Views[3]">xR2ke6L/6US/XUk1UuQc4wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[3]" type="UMLStimulus" guid="O1HvPyCSmU6S91YrHyNP3AAA">
-<XPD:ATTR name="Name" type="string">menampilkan halaman tambah</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Menampilkan halaman tambah</XPD:ATTR>
 <XPD:REF name="Sender">yDO5uKjF1ECIwjLbax7/owAA</XPD:REF>
 <XPD:REF name="Receiver">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="LP/l+/X2lEWElYhkcrsPOAAA">
@@ -1183,7 +1183,7 @@
 <XPD:REF name="Views[3]">zAu0zHcyd0icvEW5hWOHewAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[4]" type="UMLStimulus" guid="3EtdFwaFkEaRJnTGWAyDMAAA">
-<XPD:ATTR name="Name" type="string">input data pemasukan</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Input data pemasukan</XPD:ATTR>
 <XPD:REF name="Sender">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:REF name="Receiver">yDO5uKjF1ECIwjLbax7/owAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="GP4riUtmnUils5+iYHObygAA">
@@ -1197,7 +1197,7 @@
 <XPD:REF name="Views[3]">74HElPgSakC0xdKXNBFQMQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[5]" type="UMLStimulus" guid="pZqLjR11skKQDES7s3cuFAAA">
-<XPD:ATTR name="Name" type="string">validasi input</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Validasi input</XPD:ATTR>
 <XPD:REF name="Sender">yDO5uKjF1ECIwjLbax7/owAA</XPD:REF>
 <XPD:REF name="Receiver">yDO5uKjF1ECIwjLbax7/owAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="kWbiL2TeUEe4zjCtXPVqJwAA">
@@ -1225,7 +1225,7 @@
 <XPD:REF name="Views[3]">Wb1iqja9h0yoA2gWmEPuUQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[7]" type="UMLStimulus" guid="06IWlre0X02PkbiEpk6ExgAA">
-<XPD:ATTR name="Name" type="string">menerima data</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Menerima data</XPD:ATTR>
 <XPD:REF name="Sender">kfuSpgUn0ECD0eA2QXL8mAAA</XPD:REF>
 <XPD:REF name="Receiver">yDO5uKjF1ECIwjLbax7/owAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLReturnAction" guid="Rvuyekn6mkiq0nlsYL921wAA">

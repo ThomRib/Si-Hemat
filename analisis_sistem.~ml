@@ -773,7 +773,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="VLX7gkRx2kOUX3Jyx26NXAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="kzFwK/KwdEqqJrx8YPMLcQAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">halaman kelola pengeluaran</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">halaman kelola pemasukan</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="8K9ocNFoMkCbCarq+am62QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -845,7 +845,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="7ErYR6NqyUe9fsHUx4+LdQAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">1 : mengklik tombol kelola pengeluaran()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">1 : mengklik tombol kelola pemasukan()</XPD:ATTR>
 <XPD:REF name="Model">0N85jVj2X02bq4aV0dkWaAAA</XPD:REF>
 <XPD:REF name="HostEdge">87A0laNnhkyB5mjzmDdoWgAA</XPD:REF>
 </XPD:OBJ>
@@ -881,7 +881,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="JqbMBn7jPU62SWP04MhCEAAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">2 : menampilkan halaman kelola pengeluaran()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">2 : menampilkan halaman kelola pemasukan()</XPD:ATTR>
 <XPD:REF name="Model">7xMJo7oehUKsd5uCq0udAQAA</XPD:REF>
 <XPD:REF name="HostEdge">0JT7tC+UykqA7kRguyATUQAA</XPD:REF>
 </XPD:OBJ>
@@ -989,7 +989,7 @@
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="PEzO+3jv9EOD3q2HnIC6ygAA">
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">5 : input data()</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">5 : input data pemasukan()</XPD:ATTR>
 <XPD:REF name="Model">3EtdFwaFkEaRJnTGWAyDMAAA</XPD:REF>
 <XPD:REF name="HostEdge">kGw20OmFdk2lHzRoMGknBwAA</XPD:REF>
 </XPD:OBJ>
@@ -1127,7 +1127,7 @@
 </XPD:OBJ>
 <XPD:ATTR name="#ParticipatingStimuli" type="integer">8</XPD:ATTR>
 <XPD:OBJ name="ParticipatingStimuli[0]" type="UMLStimulus" guid="0N85jVj2X02bq4aV0dkWaAAA">
-<XPD:ATTR name="Name" type="string">mengklik tombol kelola pengeluaran</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">mengklik tombol kelola pemasukan</XPD:ATTR>
 <XPD:REF name="Sender">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:REF name="Receiver">q5BxHADdMUegygGE/85/awAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="Gh87PFtBc0StI1nX1dErggAA">
@@ -1141,7 +1141,7 @@
 <XPD:REF name="Views[3]">EvvSHkQp0kinzVRn4THe1gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[1]" type="UMLStimulus" guid="7xMJo7oehUKsd5uCq0udAQAA">
-<XPD:ATTR name="Name" type="string">menampilkan halaman kelola pengeluaran</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">menampilkan halaman kelola pemasukan</XPD:ATTR>
 <XPD:REF name="Sender">q5BxHADdMUegygGE/85/awAA</XPD:REF>
 <XPD:REF name="Receiver">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="U/KRenH3SkGY859n4sOJNwAA">
@@ -1183,7 +1183,7 @@
 <XPD:REF name="Views[3]">zAu0zHcyd0icvEW5hWOHewAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[4]" type="UMLStimulus" guid="3EtdFwaFkEaRJnTGWAyDMAAA">
-<XPD:ATTR name="Name" type="string">input data</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">input data pemasukan</XPD:ATTR>
 <XPD:REF name="Sender">88fYgppBtEap+nAzl+SpOwAA</XPD:REF>
 <XPD:REF name="Receiver">yDO5uKjF1ECIwjLbax7/owAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCallAction" guid="GP4riUtmnUils5+iYHObygAA">
@@ -1280,7 +1280,7 @@
 <XPD:REF name="ReceivingStimuli[1]">O1HvPyCSmU6S91YrHyNP3AAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[1]" type="UMLObject" guid="q5BxHADdMUegygGE/85/awAA">
-<XPD:ATTR name="Name" type="string">halaman kelola pengeluaran</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">halaman kelola pemasukan</XPD:ATTR>
 <XPD:REF name="CollaborationInstanceSet">VO/zdpfQzkCXgHngv6+NcgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
 <XPD:REF name="Views[0]">txJYkVyMpUOZMQoa+j0bEwAA</XPD:REF>
