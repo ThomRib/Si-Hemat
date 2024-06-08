@@ -10,3 +10,6 @@ $ pip3 install
 
 # Sequence Kelola pemasukan
 ![Sequence Kelola Pemasukan](https://github.com/ThomRib/Si-Hemat/assets/74390441/e8c63299-dfaf-4b36-8431-a020aec3439d)
+
+# Sequence Kelola pengeluaran
+![Sequence Kelola Pengeluaran](https://github.com/ThomRib/Si-Hemat/assets/74390441/3e32f691-8413-4bc7-b188-db6685ecff93)
