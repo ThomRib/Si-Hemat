@@ -1,6 +1,5 @@
 <a href="https://github.com/sponsors/thomrib">
-  <p>support me</p>
-  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+  <img src="https://img.shields.io/static/v1?label=Sponsoring me&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
 </a>
 
 # background
