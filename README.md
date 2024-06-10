@@ -1,3 +1,7 @@
+<a href="https://github.com/sponsors/thomrib">
+  <img src="https://img.shields.io/static/v1?label=Sponsoring me&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>
+</a>
+
 # background
 Being born as an ordinary person certainly made me think repeatedly about spending money, the slightest carelessness could be disastrous for me and the impact would be extraordinary. What will be very clear is that I will not be able to meet my daily needs, especially food. This experience made me think that it is important to create a personal financial management system so that all financial transaction activities can be monitored and make it easier for me to carry out regular personal financial audits.
 <!--
