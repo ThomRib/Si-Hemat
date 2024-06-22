@@ -3,7 +3,6 @@
   // body
   // nav
 
-
   <h1>
     index
   </h1>
