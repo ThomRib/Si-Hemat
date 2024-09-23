@@ -13,7 +13,6 @@
     // fungsi diskon
     // fungsi tambah
     // fungsi kurang
-
     // fungsi select
 
 ?>
