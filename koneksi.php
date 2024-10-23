@@ -18,5 +18,4 @@
     // fungsi kurang
 
     // fungsi select
-
 ?>
