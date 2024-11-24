@@ -10,8 +10,6 @@
     }
 
 
-
-
     // fungsi crud
 
     // fungsi diskon
