@@ -9,6 +9,7 @@
         $ss->close();
     }
 
+q
     // fungsi crud
 
     // fungsi diskon
