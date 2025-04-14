@@ -1,4 +1,3 @@
-
 <?php 
     // sesi dimulai
     session_start();
@@ -9,6 +8,7 @@
         return $ss->query($q);
         $ss->close();
     }
+
 
     // fungsi crud
 
