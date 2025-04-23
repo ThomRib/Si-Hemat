@@ -1,7 +1,6 @@
-<?php
+qq<?php
   include 'koneksi.php';
   // body
   // nav
-
 
 ?>
