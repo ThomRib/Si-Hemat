@@ -21,7 +21,7 @@ $ pip3 install
 ---
 
 ## 📬 Kontak
-Jika ada pertanyaan atau ingin berkontribusi, hubungi saya di:
-- 📞 **WhatsApp**: [Hubungi Saya](https://wa.me/6281258189596)
+If you have any questions or would like to contribute, you can call me out:
+- 📞 **WhatsApp**: [contact me](https://wa.me/6281258189596)
 
 ---
