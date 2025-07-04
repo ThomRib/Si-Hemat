@@ -4,7 +4,6 @@ Being born as an ordinary person certainly made me think repeatedly about spendi
 ```bash
 $ pip3 install 
 ```
-
 -->
 ---
 
