@@ -1,4 +1,4 @@
-qq<?php
+<?php
   include 'koneksi.php';
   // body
   // nav
